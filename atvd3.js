@@ -1,2 +1,3 @@
-let num = -15
+let num = -15;
 console.log(-num);
+
