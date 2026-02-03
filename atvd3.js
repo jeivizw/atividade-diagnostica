@@ -1,4 +1,2 @@
-let numeroNegativo = -15;
-let numeroPositivo = -numeroNegativo;
-
-console.log(numeroPositivo);
+let num = -15
+console.log(-num);
